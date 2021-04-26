@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bienvenida-maya.git/static/css/main.953d7d37.chunk.css",
+    "main.js": "/bienvenida-maya.git/static/js/main.5d0ceac7.chunk.js",
+    "main.js.map": "/bienvenida-maya.git/static/js/main.5d0ceac7.chunk.js.map",
+    "runtime-main.js": "/bienvenida-maya.git/static/js/runtime-main.baafb0bc.js",
+    "runtime-main.js.map": "/bienvenida-maya.git/static/js/runtime-main.baafb0bc.js.map",
+    "static/js/2.cbb18e75.chunk.js": "/bienvenida-maya.git/static/js/2.cbb18e75.chunk.js",
+    "static/js/2.cbb18e75.chunk.js.map": "/bienvenida-maya.git/static/js/2.cbb18e75.chunk.js.map",
+    "static/js/3.c6bb5a86.chunk.js": "/bienvenida-maya.git/static/js/3.c6bb5a86.chunk.js",
+    "static/js/3.c6bb5a86.chunk.js.map": "/bienvenida-maya.git/static/js/3.c6bb5a86.chunk.js.map",
+    "index.html": "/bienvenida-maya.git/index.html",
+    "static/css/main.953d7d37.chunk.css.map": "/bienvenida-maya.git/static/css/main.953d7d37.chunk.css.map",
+    "static/js/2.cbb18e75.chunk.js.LICENSE.txt": "/bienvenida-maya.git/static/js/2.cbb18e75.chunk.js.LICENSE.txt",
+    "static/media/cielo_background.3de40d74.png": "/bienvenida-maya.git/static/media/cielo_background.3de40d74.png",
+    "static/media/nubes_layer.a4d44bdc.png": "/bienvenida-maya.git/static/media/nubes_layer.a4d44bdc.png",
+    "static/media/nubesback.feef75aa.png": "/bienvenida-maya.git/static/media/nubesback.feef75aa.png",
+    "static/media/recuadro.d016f091.png": "/bienvenida-maya.git/static/media/recuadro.d016f091.png",
+    "static/media/stork.995cf050.gif": "/bienvenida-maya.git/static/media/stork.995cf050.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baafb0bc.js",
+    "static/js/2.cbb18e75.chunk.js",
+    "static/css/main.953d7d37.chunk.css",
+    "static/js/main.5d0ceac7.chunk.js"
+  ]
+}
