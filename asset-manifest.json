@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bienvenida-maya/static/css/main.953d7d37.chunk.css",
+    "main.css": "/bienvenida-maya/static/css/main.ae28da81.chunk.css",
     "main.js": "/bienvenida-maya/static/js/main.5d0ceac7.chunk.js",
     "main.js.map": "/bienvenida-maya/static/js/main.5d0ceac7.chunk.js.map",
     "runtime-main.js": "/bienvenida-maya/static/js/runtime-main.8e3a7c2c.js",
@@ -10,7 +10,7 @@
     "static/js/3.c6bb5a86.chunk.js": "/bienvenida-maya/static/js/3.c6bb5a86.chunk.js",
     "static/js/3.c6bb5a86.chunk.js.map": "/bienvenida-maya/static/js/3.c6bb5a86.chunk.js.map",
     "index.html": "/bienvenida-maya/index.html",
-    "static/css/main.953d7d37.chunk.css.map": "/bienvenida-maya/static/css/main.953d7d37.chunk.css.map",
+    "static/css/main.ae28da81.chunk.css.map": "/bienvenida-maya/static/css/main.ae28da81.chunk.css.map",
     "static/js/2.cbb18e75.chunk.js.LICENSE.txt": "/bienvenida-maya/static/js/2.cbb18e75.chunk.js.LICENSE.txt",
     "static/media/cielo_background.3de40d74.png": "/bienvenida-maya/static/media/cielo_background.3de40d74.png",
     "static/media/nubes_layer.a4d44bdc.png": "/bienvenida-maya/static/media/nubes_layer.a4d44bdc.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.8e3a7c2c.js",
     "static/js/2.cbb18e75.chunk.js",
-    "static/css/main.953d7d37.chunk.css",
+    "static/css/main.ae28da81.chunk.css",
     "static/js/main.5d0ceac7.chunk.js"
   ]
 }
